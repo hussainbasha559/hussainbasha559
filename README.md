@@ -6,11 +6,11 @@
 <!-- ===== HERO BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shaik%20Hussainbasha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Local%20LLMs%20%7C%20Software%20Development&descAlignY=60&descSize=18" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0221,100:0a1a4a&height=220&section=header&text=Shaik%20Hussainbasha&fontSize=48&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20%7C%20Local%20LLMs%20%7C%20Software%20Development&descColor=bd00ff&descAlignY=60&descSize=18" width="100%" alt="Banner"/>
 
 <!-- Animated typing text: edit the lines= part to change the text -->
 <a href="https://github.com/hussainbasha559">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Hussainbasha+%F0%9F%91%8B;Aspiring+Software+Developer;AI%2FML+%26+DSA+Learner+(Python);Exploring+Local+LLMs+with+Ollama+%26+Llama+3;Seeking+AI%2FML+Engineer+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Hussainbasha+%F0%9F%91%8B;Aspiring+Software+Developer;AI%2FML+%26+DSA+Learner+(Python);Exploring+Local+LLMs+with+Ollama+%26+Llama+3;Seeking+AI%2FML+Engineer+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -172,6 +172,6 @@
 
 ⭐ *If you like my work, consider giving my repositories a star!* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1a4a,60:0d0221,100:000000&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
