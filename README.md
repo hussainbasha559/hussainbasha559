@@ -6,7 +6,7 @@
 <!-- ===== HERO BANNER ===== -->
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Shaik Hussainbasha - AI/ML and Software Development"/>
+<img src="https://raw.githubusercontent.com/hussainbasha559/hussainbasha559/main/banner.svg" width="100%" alt="Shaik Hussainbasha - AI/ML and Software Development"/>
 
 <!-- Animated typing text: edit the lines= part to change the text -->
 <a href="https://github.com/hussainbasha559">
