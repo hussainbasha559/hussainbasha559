@@ -15,7 +15,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hussainbasha559&label=Profile%20Views&color=0e75b6&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/hussainbasha559?label=Followers&style=flat-square&logo=github&color=2c5364)
 
 </div>
