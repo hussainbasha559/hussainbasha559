@@ -6,7 +6,7 @@
 <!-- ===== HERO BANNER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0221,100:0a1a4a&height=220&section=header&text=Shaik%20Hussainbasha&fontSize=48&fontColor=00f5ff&animation=twinkling&fontAlignY=38&desc=AI%2FML%20%7C%20Local%20LLMs%20%7C%20Software%20Development&descColor=bd00ff&descAlignY=60&descSize=18" width="100%" alt="Banner"/>
+<img src="./banner.svg" width="100%" alt="Shaik Hussainbasha - AI/ML and Software Development"/>
 
 <!-- Animated typing text: edit the lines= part to change the text -->
 <a href="https://github.com/hussainbasha559">
